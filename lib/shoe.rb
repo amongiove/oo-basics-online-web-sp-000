@@ -3,7 +3,6 @@ class Shoe
 
   def initialize(brand = "Nike")
     @brand
-    puts brand
   end
 
   def cobble
